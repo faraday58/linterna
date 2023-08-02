@@ -18,7 +18,7 @@ struct ContentView: View {
                 }){
                     Text("Encender")
                 }
-                
+                //Aquí cambia
             }
         }.edgesIgnoringSafeArea(.all)
     }
